@@ -1,0 +1,39 @@
+*Começe criando .html e .css;
+*começei criando o <nav>;
+*começei criando o <ul>;
+*começei criando o <li> li=itens;  
+*começei criando o <a> link=a (E ESCRIVI "SOBRE MIM");
+*Tripliquei o <li> e <A>, e neles eu coloquei projetos e contatos;
+*Criei <link rel="stylesheet" helf=".css";
+*logo depois eu coloquei body {backgraund-color: (e escolhi uma cor)};
+*logo depois coloquei color: white. para trocar a cor das letras;
+*digitei ul {display: flex; / justify-content: space-between / list-style-type: none / align-items: center;};
+*Dai para deixar alinhado eu coloquei padding: 16px;
+*logo depois eu foi mudar a fonte, coloquei font-family: Arial...;
+*criei contatos e projetos .html;
+*coloquei href="site / projetos / contatos .html;
+*ja que os textos do site ficaram azuis por conta dos links, eu fui ate o css e digitei a {color: white};
+*e para tirar a linha debaixo do texto eu coloquei text-decoration: none;
+*logo depois peguei uma imagem minha e nomeei de img.png;
+*digitei <header></header> para poder fazer a discrição da pagina;
+*ultilizei  <img src="img.jpg"></img> para poder linka a imagem e jogar minha imagem na pagina;
+*coloquei no img {...} no css o codigo width: 150px; e height: 150px;
+*para fazer a imagem ficar redonda eu coloquei border-radius: 50%; em img;
+*para fazer uma circunferencia com cor eu usei o codigo border: 5px solid rgba(12, 12, 80, 0.589); em img;
+*crie <div></div> para poder centralizar a imagem e deixei ela dentro de <header>;
+*em <div, eu adicionei na frente class="center";
+*logo depois fui no css e criei .center;
+*logo depois digitei {text-align: center;};
+*para criar um subtitulo eu coloquei no html  <h1>Igor Allen</h1> e <h2>Engenheiro de Software</h2>;
+*para deixar a discrição bonita eu coloquei no css h1 {color: rgba(12, 12, 80, 0.589);};
+*no html eu digitei  <main> e <section> para colocar <p> dentro de <section>;
+*logo em baixo de main, eu digitei <footer> que será o roda pé da pagina e <a> que levara algumas informações par fora da pagina;
+*ultilizei <img src=instagram / github / tweeter junto com <p> para o nome do app/site;
+*css: footer {
+    display: flex;
+    justify-content: center;
+}
+*css: footer p {
+    margin-top: 1.5px;
+}
+*
